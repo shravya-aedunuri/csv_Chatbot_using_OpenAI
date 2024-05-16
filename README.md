@@ -33,7 +33,7 @@ In without indexing response is solely dependent on LLM. I'm using GPT 3.5 turbo
 - Vector Database: Storing embeddings for efficient search using Chroma Vector databases.
 - Similarity Search: Using vector database to find the top most similar data to a query.
 - Integration and Answer Generation: Search for contextually relevant information and integrate with prompted questions and generate responses using GPT-3.5 Turbo integrated with Langchain.
-- 
+  
   
 **Metrics to evaluate RAG:**
 
