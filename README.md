@@ -67,5 +67,5 @@ The repository contains GoogleColab Notebook
 
 **Conclusion**
 
-The comparison between "with indexing" and "without indexing" methodologies underscores the benefits of structured data retrieval strategies. Integration of LangChain, GPT-3.5, and a vector database in the "with indexing" approach provides a systematic framework for tailored responses, particularly beneficial in healthcare analyses like cancer patient data. This structured methodology enhances precision, facilitates targeted insights, and improves decision-making processes, showcasing promise for practical AI applications. 
-LangChain integrates retrieval techniques with text generation algorithms to deliver precise and contextually appropriate responses to user inquiries.
+The comparison between "with indexing" and "without indexing" methodologies underscores the benefits of structured data retrieval strategies. Integration of LangChain, GPT-3.5, and a vector database in the "with indexing" approach provides a systematic framework for tailored responses, particularly beneficial in healthcare analyses like cancer patient data. This structured methodology enhances precision, facilitates targeted insights, and improves decision-making processes, showcasing for practical AI applications. 
+LangChain integrates retrieval techniques with text generation algorithms to deliver precise and contextually appropriate responses to user queries.
