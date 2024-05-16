@@ -1,5 +1,7 @@
 # Langchain_powered_chatbot
 Leveraging Langchain Powered Question-Answering System using OpenAI
+
+
 **Project Description**
 
 This project integrates Langchain with GPT-3.5 Turbo for medical query resolution, comparing its performance with prompt-based models and analyzing Cancer Genome Atlas reports using NLP, evaluating With-Indexing and Without-Indexing models.
